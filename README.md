@@ -37,3 +37,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/sahillad05/anime-art-gan.git
 cd anime-art-gan
+
+```
+
+Run the Streamlit app
+
+```bash
+streamlit run app.py
+```
